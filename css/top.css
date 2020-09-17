@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/*TOPスライダー部分*/
+.top-slider-wrap{
+    margin-bottom: 60px;
+}
+.top-slider.inner{
+    width: auto;
+}
+.slick-slide img{
+    width: 100%;
+}
+
+.contents{
+    padding-top: 60px;
+}
